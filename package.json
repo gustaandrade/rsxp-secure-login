@@ -1,0 +1,27 @@
+{
+  "name": "rsxp-secure-login",
+  "version": "1.0.0",
+  "description": "# Workshop Raphael Santos RS/XP 2019 Repositório do workshop (Implementando 2FA com NodeJS por SMS e Audio) apresentado por Raphael Santos no dia 25/11/2019 no evento Rocketseat Experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustaandrade/rsxp-secure-login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustaandrade/rsxp-secure-login/issues"
+  },
+  "homepage": "https://github.com/gustaandrade/rsxp-secure-login#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "js-base64": "^2.5.1",
+    "totalvoice-node": "^1.8.0"
+  }
+}
